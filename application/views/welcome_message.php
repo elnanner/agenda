@@ -6,8 +6,15 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<meta charset="utf-8">
 	<title>Practicando con CodeIgniter</title>
 	<style media="screen">
+		body{
+			background-color: rgba(255, 255, 50, 0.25);
+		}
 		h1,p{
 			font-family:Arial;
+		}
+		p{
+			background-color: lightblue;
+			font-size: 20px;
 		}
 	</style>
 </head>
